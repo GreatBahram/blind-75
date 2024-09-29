@@ -1,2 +1,2 @@
-# blind-75
-Solutions for blind 75 for the youtube channel
+# Blind 75
+Blind 75 Solutions for the YouTube channel
