@@ -7,6 +7,7 @@ Instead of tackling hundreds of problems from platforms like LeetCode or HackerR
 
 The problems in Blind 75 focus on:
 - Arrays
+  - two sum: [exercise](https://leetcode.com/problems/two-sum/), [solution](solutions/01-array/two_sum.py)
 - Linked Lists
 - Dynamic Programming
 - Graph Theory
