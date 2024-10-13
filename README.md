@@ -8,6 +8,7 @@ Instead of tackling hundreds of problems from platforms like LeetCode or HackerR
 The problems in Blind 75 focus on:
 - Arrays
   - two sum: [exercise](https://leetcode.com/problems/two-sum/), [solution](solutions/01-array/two_sum.py)
+  - best-time-to-buy-and-sell-stock: [exercise](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/), solution
 - Linked Lists
 - Dynamic Programming
 - Graph Theory
